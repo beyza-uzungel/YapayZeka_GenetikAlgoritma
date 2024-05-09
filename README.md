@@ -1,8 +1,10 @@
 
-Yapay Zeka Genetik Algoritma Projesi
+### Yapay Zeka Genetik Algoritma Projesi
+
 Bu proje, yapay zeka alanında genetik algoritmaların kullanıldığı bir uygulamadır. Proje, Matyas fonksiyonunu test problemi olarak kullanır ve Windows Form App kullanılarak geliştirilmiştir.
 
-Nasıl Çalışır?
+### Nasıl Çalışır?
+
 Projenin çalışma prensibi şu adımları içerir:
 
 Popülasyon Oluşturma: İlk olarak, belirlenen popülasyon boyutu kadar gen oluşturulur. Her bir gen, arzu edilen aralıkta rastgele bir değere sahip olur. Matyas fonksiyonu için genler, -10 ile 10 arasında rastgele sayılar içerir.
@@ -14,15 +16,15 @@ Sonuçlar ve Yakınsama Grafiği: Her iterasyonda, en iyi performans gösteren g
 Görsel Analiz
 Proje, System.Drawing kütüphanesi kullanılarak şablon bir görsel üzerinde elde edilen genlerin koordinatlarıyla çizim yapma imkanı sunar. Bu sayede, gerçekten istenen sonuçların elde edilip edilmediği görsel olarak incelenebilir ve gerekli düzeltmeler yapılabilir.
 
-Nasıl Kullanılır?
+### Nasıl Kullanılır?
+
 Proje dosyalarını bilgisayarınıza indirin.
 Visual Studio veya benzer bir geliştirme ortamında projeyi açın.
 Windows Form uygulamasını çalıştırarak programı başlatın.
 Form üzerinden istenen parametreleri girin veya değiştirin.
 "Başlat" düğmesine basarak algoritmayı çalıştırın.
 Sonuçları inceleyin ve analiz edin. Gerekirse, görsel analiz aracını kullanarak düzeltmeler yapın.
-Notlar
+
+### Notlar
 Bu proje, Matyas fonksiyonu için özel olarak tasarlanmıştır. Farklı fonksiyonlar için kullanılacaksa, ilgili fonksiyonun formülü ve aralığı projenin kodlarında değiştirilmelidir.
 
-Destek
-Proje hakkında herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen proje sahibi ile iletişime geçmekten çekinmeyin.
