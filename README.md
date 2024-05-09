@@ -2,7 +2,7 @@
 
 Bu proje, yapay zeka alanında genetik algoritmaların kullanıldığı bir uygulamadır. Proje, Matyas fonksiyonunu test problemi olarak kullanır ve Windows Form App kullanılarak geliştirilmiştir.
 
-![Projemizin Ekran Görüntüsü](/images/ekr.png)
+![Projemizin Ekran Görüntüsü](/ekr.png)
 
 
 ## Nasıl Çalışır?
